@@ -25,3 +25,5 @@ import android.widget.Toast
 <p>
 Implementasi tugas ini saya lakukan pada tugas materi implicit dimana pada MainActivity.kt saya tambahkan code diatas dan hasil nya seperti pada gambar di bawah 
 </p>
+
+![alt text](https://github.com/FauziRikhsana/Tugas_Debugging_Fauzi_Rikhshana/blob/4484f38a0f9accbe1ace2bba0e64445a0aa8cc9a/Tugas%20Log.png?raw=true)
